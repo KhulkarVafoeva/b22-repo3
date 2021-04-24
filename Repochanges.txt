@@ -1,1 +1,9 @@
 We just published our local repo and about to add some changes to that repo and publish it again
+
+Now our work will continue locally
+
+1. add new file
+2. commited changes to local repo
+3. we want to change to be reflected in remote repostary so we push local commit to remot repo using push origin button
+
+4. Observe repo was added under Github.com
