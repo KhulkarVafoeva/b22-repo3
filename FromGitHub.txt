@@ -1,0 +1,1 @@
+This is the file I add from GitHub to my remote repository by clicking File button.
