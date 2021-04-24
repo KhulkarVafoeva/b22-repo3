@@ -7,3 +7,8 @@ Now our work will continue locally
 3. we want to change to be reflected in remote repostary so we push local commit to remot repo using push origin button
 
 4. Observe repo was added under Github.com
+
+
+How to save after adding some text in sublime
+command + S
+or Click on File --> Save
